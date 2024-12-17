@@ -1,6 +1,6 @@
 ## Mac SE Pico PSU Project Overview
 
-[Purchase boards link](https://www.tindie.com/products/ttdesign/diy-macintosh-se30-se-pico-power-supply-board/)
+[Purchase bare board link](https://www.tindie.com/products/ttdesign/diy-macintosh-se30-se-pico-power-supply-board/)
 
 [Purchase completed assembly link](https://www.tindie.com/products/ttdesign/macintosh-mac-se30-se-pico-atx-power-supply/)
 
