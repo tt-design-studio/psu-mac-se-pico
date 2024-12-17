@@ -1,4 +1,4 @@
-## Mac SE Pico PSU Project Overview
+## Mac SE Pico PSU Project "T.N.T." Overview
 
 [Purchase bare board link](https://www.tindie.com/products/ttdesign/diy-macintosh-se30-se-pico-power-supply-board/)
 
@@ -8,7 +8,7 @@
 
 This project is for a design of a modern replacement of the AC/DC power supply board for the Apple Macintosh SE/30 and SE using all new components. It is mainly intended to be a DIY project to build on your own.
 
-This board uses a Pico ATX power supply and uses an internal AC/DC converter to keep your original PSU stock.
+This board uses a Pico ATX power supply and uses an internal AC/DC converter to keep the stock machine functioning as it was designed. It keeps the original switch and AC power plug so that the machine doesn't need any external modifications and the changes are kept withing the power supply enclosure.
 
 What follows are some notes to aid in the build configuration and component selection. 
 
@@ -32,6 +32,10 @@ The project / BOM links contain connector parts for all three configurations, so
 - [Digikey](https://www.digikey.com/en/mylists/list/SZG5HO0RRM)
 
 - Mouser (Pending)
+
+### Pico ATX Power supply
+
+The design was tested with a couple of different RGEEK power supplies, including the 20-pin version. The connector is compatible with 20 or 24 pin pico ATX PSUs. [Mini-Box](https://www.mini-box.com) is one of the early original designers of this form factor and may be higher quality. There are some possibly counterfeit listings in places (confirmed by Mini-Box), so it may be best to order direct from them or ask them if a particular listing is genuine.
 
 ### Cable Assembly
 
