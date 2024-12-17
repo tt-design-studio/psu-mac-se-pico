@@ -27,7 +27,7 @@ Note, the power draw on the -12 V rail in a typical SE/30 setup is ~ 0.1 A.
 
 ### Board versions 0.2
 
-- [Digikey]([https://www.digikey.com/en/mylists/list/53G5CF5PMB](https://www.digikey.com/en/mylists/list/SZG5HO0RRM))
+- [Digikey](https://www.digikey.com/en/mylists/list/SZG5HO0RRM)
 
 - Mouser (Pending)
 
