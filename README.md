@@ -19,6 +19,7 @@ Here's a table of the build options for the different Mean Well IRM modules and 
 | Voltage Rail |IRM-90-12 | IRM-60-12 |
 | ----- | ------------- | ------- |
 | +12 V |  6.67 A    | 5 A |
+
 Table 1: PSU Module Specs **IRM-90-12 is recommended**
 
 Note, the power draw on the -12 V rail in a typical SE/30 setup is ~ 0.1 A.
